@@ -289,7 +289,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 151.13 77.47 0)
 			(effects
 				(font
@@ -354,7 +354,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 127 77.47 0)
 			(effects
 				(font
@@ -419,7 +419,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_MX_HotSwap_THT"
 			(at 138.43 82.55 0)
 			(effects
 				(font
