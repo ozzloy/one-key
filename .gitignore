@@ -1,6 +1,8 @@
 /one-key-backups/
+#####################################################################
 # from
 # https://raw.githubusercontent.com/github/gitignore/main/KiCad.gitignore
+#####################################################################
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
@@ -30,4 +32,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+#####################################################################
 *.lck
